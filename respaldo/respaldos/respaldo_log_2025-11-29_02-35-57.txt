@@ -1,0 +1,5 @@
+RESPALDO MANUAL - RESTABLECIMIENTO DEL SISTEMA
+Fecha: 2025-11-29 02:35:57
+Base de datos: clinica
+Estado: Respaldo manual creado antes del restablecimiento
+Nota: Mysqldump no disponible, se creó este archivo de registro
